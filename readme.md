@@ -1,0 +1,1 @@
+# Nest Template to simplify starting projects
